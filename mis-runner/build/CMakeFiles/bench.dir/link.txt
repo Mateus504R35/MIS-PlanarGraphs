@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bench.dir/src/bench.cpp.o -o bench   -L/home/mateu/OGDF/build  -Wl,-rpath,/home/mateu/OGDF/build -lOGDF -lCOIN 
